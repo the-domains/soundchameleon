@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soundchameleon]]></title>
+        <description><![CDATA[Soundchameleon]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 08:00:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why the beat goes on]]></title>
+            <description><![CDATA[<article><h1>Why the beat goes on</h1><p>Electronic Dance Music und alles was links und rechts davon neben den Teller kleckert.</p></article>]]></description>
+            <link>undefinedwhy-the-beat-goes-on/index.html</link>
+            <guid isPermaLink="false">165f14c1-4ffb-4656-8e21-3055b95c81e9</guid>
+            <pubDate>Sun, 06 Mar 2016 08:00:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
