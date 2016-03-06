@@ -1,29 +1,41 @@
-name: Soundchameleon
-favicon: null
-layout_spectrum: 0.49542
-typography_spectrum: 0.53646
 title: 'Alternative DJing '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2883643
+  brandStrength: 0.7580101
+  lightness: 0.2976391
   brandColors:
     - '#000000'
     - '#fefefe'
     - '#a4a691'
     - '#7a6972'
     - '#002f4a'
-  brandStrength: 0.3844891448970884
-  lightness: 0.3125
-  saturation: 0.1875
   rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Soundchameleon
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.53646
+layout_spectrum: 0.49542
