@@ -1,0 +1,28 @@
+name: Soundchameleon
+favicon: null
+layout_spectrum: 0.3258601534180343
+typography_spectrum: 0.47673368849791586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3844891448970884
+  lightness: 0.6575321049895138
+  saturation: 0.1846612193621695
+  rhythmicContrast: 0.23077688785269856
+purpose: []
